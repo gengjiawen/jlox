@@ -1,6 +1,4 @@
 /lib/**
-/.idea/**
-/compiler/build/**
-/runtime/build/**
+.idea/
 /.gradle/**
-/craftinginterpreters/**
+build/
